@@ -43,3 +43,5 @@ pom.xml.next
 release.properties
 
 >>>>>>> df58c99396b5ac1a02ef9cfaa3e902df9b93d094
+.classpath
+.project
